@@ -1,6 +1,6 @@
 # DataAnalyticsWithPython
 
-<H1>Contents:</H1>
+## Contents:
 <ol>
 <li><b>Course work for UT Data Analytics course:</b>
   <ol>
