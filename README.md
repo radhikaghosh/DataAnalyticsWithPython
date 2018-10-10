@@ -14,8 +14,8 @@
   </li>
 <li>Credit defaulters prediction assignment:</li>
   <ol>
-  <li>Credit One Data Wrangling</li>
-  <li>Credit One Exploratory Data Analysis (EDA></li>
-  <li>Credit One Model Building and Predictions</li>
+  <li><a href="https://github.com/radhikaghosh/DataSciencePython/blob/master/CreditOneDataWrangling.ipynb">Credit One Data Wrangling</a></li>
+  <li><a href="https://github.com/radhikaghosh/DataSciencePython/blob/master/CreditOne_EDA.ipynb">Credit One Exploratory Data Analysis (EDA)</a></li>
+  <li><a href="">Credit One Model Building and Predictions</a></li>
   </ol>
 </ol>
