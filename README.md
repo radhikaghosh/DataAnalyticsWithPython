@@ -14,7 +14,7 @@
       <ol>
         <li><a href="https://github.com/radhikaghosh/DataSciencePython/blob/master/CreditOneDataWrangling.ipynb">Credit One Data Wrangling</a></li>
         <li><a href="https://github.com/radhikaghosh/DataSciencePython/blob/master/CreditOne_EDA.ipynb">Credit One Exploratory Data Analysis (EDA)</a></li>
-        <li><a href="">Credit One Model Building and Predictions</a></li>
+        <li><a href="https://github.com/radhikaghosh/DataSciencePython/blob/master/CreditOneClassification_FeatureReduction.ipynb">Credit One Model Building and Predictions</a></li>
       </ol>
     </li>
 </ol>
