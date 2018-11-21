@@ -2,7 +2,7 @@
 
 ## Contents:
 <ol>
-  <li><b>Capstone Project: Does Foreign Aid help the human development index for receiving countries? </b></li>
+  <li><b>Capstone Project: Does foreign aid help the Human Development Index of receiving countries? </b></li>
 <li><b>Course work for UT Data Analytics course:</b>
   <ol>
     <li>Exercises from Python For Dummies:</li>
