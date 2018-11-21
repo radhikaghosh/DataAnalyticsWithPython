@@ -1,7 +1,8 @@
-# DataAnalyticsWithPython
+# Data Analytics With Python
 
 ## Contents:
 <ol>
+  <li><b>Capstone Project: Does Foreign Aid help the human development index for receiving countries? </b></li>
 <li><b>Course work for UT Data Analytics course:</b>
   <ol>
     <li>Exercises from Python For Dummies:</li>
