@@ -12,7 +12,7 @@
         <li><a href="https://github.com/radhikaghosh/DataSciencePython/blob/master/PythonForDummiesCh5.ipynb">Python for Dummies Chapter 5</a></li>
       </ol>
     </li>
-    <li>Big Data & Python Course (Course 5): Credit defaulters prediction assignment:
+    <li>Big Data & Python Course (Course 5): Credit defaulters prediction:
       <ol>
         <li><a href="https://github.com/radhikaghosh/DataSciencePython/blob/master/CreditOneDataWrangling.ipynb">Credit One Data Wrangling</a></li>
         <li><a href="https://github.com/radhikaghosh/DataSciencePython/blob/master/CreditOne_EDA.ipynb">Credit One Exploratory Data Analysis (EDA)</a></li>
