@@ -2,7 +2,7 @@
 
 ## Contents:
 <ol>
-  <li><b>Capstone Project: Exploratory Data Analysis of the factors impacting a country's Human Development Index</b>
+  <li><b><a href="https://github.com/radhikaghosh/DataSciencePython/blob/master/Capstone_EDA_on_factors_affecting_HDI.ipynb">Capstone Project: Exploratory Data Analysis of the factors impacting a country's Human Development Index</a></b>
     <i>Work in progress</i></li>
 <li><b>Course work for UT Data Analytics course:</b>
   <ol>
