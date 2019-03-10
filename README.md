@@ -2,7 +2,7 @@
 
 ## Contents:
 <ol>
-  <li><b>Capstone Project: Does foreign aid help the Human Development Index of receiving countries? </b>
+  <li><b>Capstone Project: Exploratory Data Analysis of the factors impacting a country's Human Development Index</b>
     <i>Work in progress</i></li>
 <li><b>Course work for UT Data Analytics course:</b>
   <ol>
